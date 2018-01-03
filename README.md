@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This was the first ever iOS app I have ever developed so I struggled getting the hang of Swift's syntax as well as understanding some of the implementation, but overall it was a fun process. I went alongside the video tutorial given to us by CodePath and from there changed the UI to look more appealing. I did have trouble understanding how the change in currency symbol would work as some guides online used outdated implementations in their examples, but I was able to adapt them to the current Swift standard. To be honest, for being my first app, I felt fairly comfortable developing on Xcode and with Swift as oppose to developing with Android Studio and Java for the first time.
+This was the 1st ever iOS app I have ever developed so I struggled getting the hang of Swift's syntax as well as understanding some of the implementation, but overall it was a fun process. I went alongside the video tutorial given to us by CodePath and from there changed the UI to look more appealing. I did have trouble understanding how the change in currency symbol would work as some guides online used outdated implementations in their examples, but I was able to adapt them to the current Swift standard. To be honest, for being my first app, I felt fairly comfortable developing on Xcode and with Swift as oppose to developing with Android Studio and Java for the first time.
 
 
 ## License
