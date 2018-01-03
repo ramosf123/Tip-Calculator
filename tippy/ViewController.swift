@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var twoPpl: UILabel!
     @IBOutlet weak var threePpl: UILabel!
     @IBOutlet weak var fourPpl: UILabel!
+    @IBOutlet weak var fivePpl: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -88,12 +89,14 @@ class ViewController: UIViewController {
         let total2 = total / 2
         let total3 = total / 3
         let total4 = total / 4
+        let total5 = total / 5
         
         tipLbl.text = format.string(from: tip as NSNumber)
         totalLbl.text = format.string(from: total as NSNumber)
         twoPpl.text = format.string(from: total2 as NSNumber)
         threePpl.text = format.string(from: total3 as NSNumber)
         fourPpl.text = format.string(from: total4 as NSNumber)
+        fivePpl.text = format.string(from: total5 as NSNumber)
     }
     
 }
